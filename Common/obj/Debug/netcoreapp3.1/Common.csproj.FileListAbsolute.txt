@@ -1,0 +1,69 @@
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\Desktop\Higher than Sky\Monke\GRAFKOM-\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+D:\Desktop\Higher than Sky\Monke\GRAFKOM-\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\Desktop\Higher than Sky\Monke\GRAFKOM-\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\Desktop\Higher than Sky\Monke\GRAFKOM-\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\Desktop\Higher than Sky\Monke\GRAFKOM-\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Higher than Sky\Monke\GRAFKOM-\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\Desktop\Higher than Sky\Monke\GRAFKOM-\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\Desktop\Higher than Sky\Monke\GRAFKOM-\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\Desktop\Higher than Sky\Monke\GRAFKOM-\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\Desktop\Higher than Sky\Monke\GRAFKOM-\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UTSUAS ye\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UTSUAS ye\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UTSUAS ye\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UTSUAS ye\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UTSUAS ye\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UTSUAS ye\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UTSUAS ye\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UTSUAS ye\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UTSUAS ye\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UTSUAS ye\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UTS\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UTS\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UTS\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UTS\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UTS\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UTS\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UTS\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UTS\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UTS\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UTS\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UAS\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UAS\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UAS\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UAS\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UAS\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UAS\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UAS\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UAS\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UAS\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\School\UKP\SEM4\GRAFIKA KOMPUTER\UAS\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\Desktop\Higher than Sky\Monke\ShaderPBR\UAS\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+D:\Desktop\Higher than Sky\Monke\ShaderPBR\UAS\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\Desktop\Higher than Sky\Monke\ShaderPBR\UAS\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\Desktop\Higher than Sky\Monke\ShaderPBR\UAS\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\Desktop\Higher than Sky\Monke\ShaderPBR\UAS\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Higher than Sky\Monke\ShaderPBR\UAS\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\Desktop\Higher than Sky\Monke\ShaderPBR\UAS\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\Desktop\Higher than Sky\Monke\ShaderPBR\UAS\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\Desktop\Higher than Sky\Monke\ShaderPBR\UAS\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\Desktop\Higher than Sky\Monke\ShaderPBR\UAS\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
